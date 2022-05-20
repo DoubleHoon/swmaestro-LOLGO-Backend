@@ -60,4 +60,4 @@ lolgo_backend
 └── urlencode@1.1.0
 ```
 
-<img src = "/uploads/c641f790d5c828f1e5c6c7d704bfa955/SWM_Logos_Color_CMYK1.png" width="20%">   
+![SWM_Logos_Color_CMYK1](https://user-images.githubusercontent.com/14193000/169504541-b103b767-8d19-4753-b328-ff79ddeef9f2.png)
